@@ -66,6 +66,7 @@ public class CountItemsMatchingARule {
                 counter++;
             }
         }
+
         return counter;
     }
 }
